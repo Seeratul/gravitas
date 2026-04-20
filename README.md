@@ -15,10 +15,11 @@ Its current Timeline is 2020-2120.
 1. Install Melon loader from https://github.com/lavagang/melonloader
 2. Download the mod folder from this repo
 3. Place the content of the gravitas folder in the mod folder in your Solar Expanse folder (melon loader should have made one for you).
-4. Launch Solar Expanse (Melon loader should open a weird terminal with logging data, no weird terminal, no mods)
-5. Start a new game with an agency of your Choiche and NO COMPETITORS
-6. Wait a ~15 sec after the game has loaded
-7. Save and reload the game (no game restart required).
+   It is important that your mod folder contains a bunch of dlls afterwards and not for example a fodler labled gravitas with dlls inside.
+5. Launch Solar Expanse (Melon loader should open a weird terminal with logging data, no weird terminal, no mods)
+6. Start a new game with an agency of your Choiche and NO COMPETITORS
+7. Wait a ~15 sec after the game has loaded
+8. Save and reload the game (no game restart required).
 
 ## How to play
 You are now in the game and all the mods are installed, you probably have some questions commander. \
