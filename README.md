@@ -44,6 +44,8 @@ Why are you so weak? (Nah balance kinda is a tbd)
 I can try, if i have time
 - What about X
 Suggestions can be made via git issues.
+- Uninstall ?
+Just remove gravitas from your mod folder, no game data was harmed in the making of this mod
 
 ## For anything else
 Create a git Issue
