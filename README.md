@@ -45,7 +45,9 @@ I can try, if i have time
 - What about X \
 Suggestions can be made via git issues.
 - Uninstall ? \
-Just remove everything from your mod folder, no game data was harmed in the making of this mod
+Just remove everything from your mod folder, no game data was harmed in the making of this mod.
+- Gib sourcecode
+I will, i just need to clean it up first.
 
 ## For anything else
-Create a git Issue
+Create a git Issue.
