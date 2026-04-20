@@ -34,7 +34,7 @@ Your funding for this will be rather task based. A budget of ~100 Million has be
 For the goals with a * those deliveries are expected in their orbits. You can perform deliveries via the Market window and check what Resources are expected where. 
 Outside of Earth those markets should never update, fixed prices fixed amounts, once its all sold thats it.
 There is a provision for a bonus of 200k for exploring each solar object. It is paid when the rover is scrapped and the parts are handed to earths governemnt on that body via the market.
-Thats all really, id encourage you to talk to youre chief scientist now looking at the avialability of technologies and then start planning our space future.
+Thats all really, id encourage you to talk to youre chief scientist now looking at the avialability of technologies and then start planning our space future. \
 Good Luck, have fun :).
 
 ## FAQ
