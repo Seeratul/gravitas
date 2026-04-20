@@ -8,7 +8,7 @@ Its current Timeline is 2020-2120.
 - Lutetia, Ceres and Psyche got a glow down. They are still great, just less so. (Oh and noble gasses are generally harder to get now)
 - The Economy got a rework. (Explained in the guide)
 - Contracts have been entirely removed.
-- Research Costs got Rebalanced (And parts of the tech tree are now locked).
+- Research Costs got Rebalanced. (And parts of the tech tree are now locked).
 
 # Guide
 ## Install & Setup
