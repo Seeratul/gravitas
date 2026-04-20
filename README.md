@@ -1,4 +1,4 @@
-# gravitas v0.1
+# gravitas v0.1.1
 Gravitas is a Solar Expanse overhaul mod designed to make the game (much) harder and shift focus towards the early game.
 Its current Timeline is 2020-2120.
 
