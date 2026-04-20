@@ -38,13 +38,13 @@ Thats all really, id encourage you to talk to youre chief scientist now looking 
 Good Luck, have fun :).
 
 ## FAQ
-- Why is this mod so hard ?
+- Why is this mod so hard ? /
 Why are you so weak? (Nah balance kinda is a tbd)
-- Will you help me with the install?
+- Will you help me with the install? /
 I can try, if i have time
-- What about X
+- What about X /
 Suggestions can be made via git issues.
-- Uninstall ?
+- Uninstall ? /
 Just remove gravitas from your mod folder, no game data was harmed in the making of this mod
 
 ## For anything else
