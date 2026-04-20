@@ -38,6 +38,15 @@ There is a provision for a bonus of 200k for exploring each solar object. It is 
 Thats all really, id encourage you to talk to youre chief scientist now looking at the avialability of technologies and then start planning our space future. \
 Good Luck, have fun :).
 
+## Known exploits:
+- Launching a stratos as payload and adding any amount of fuel to it breaks the launch cost calculation letting you "cheat" fuel into orbit.\
+Recommended player behaviour: always launch your stratos upper stages empty.
+- Base game startos as launcher lets you launch for no fuel cost.\
+Recommended player behaviour: Dont use startos as an LV it will only bring pain. But if you have to make sure to actually pay for the orbital insertions.
+- Deconstructing can yield more materials than the object weight allowing you to move "compressed" mass.\
+Recommended player behaviour: Dont intentionally abuse this. Deconstructing Stratos for resources is intended and encouraged, but dont use Con equipment as a magical 5x weight reducer for alloy for examle.
+
+
 ## FAQ
 - Why is this mod so hard ? \
 Why are you so weak? (Nah balance kinda is a tbd)
