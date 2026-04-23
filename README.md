@@ -1,4 +1,4 @@
-# gravitas v0.1.2
+# gravitas v0.1.3
 Gravitas is a Solar Expanse overhaul mod designed to make the game (much) harder and shift focus towards the early game.
 Its current Timeline is 2020-2120.
 
@@ -31,10 +31,10 @@ Earths governments have tasked you peppering humanity across our solar system th
 2080: Jupiter* \
 2100: Saturn* \
 2120: PLuto \
-Your funding for this will be rather task based. A budget of ~100 Million in addition to your starting budget of 10 Million has been allocated for this project to be payed out in tranches for the delivery of materials at the target bodies.
+Your funding for this will be rather task based. A budget of ~220 Million in addition to your starting budget of 10 Million has been allocated for this project to be payed out in tranches for the delivery of materials at the target bodies. (The first 20 Million will be paid for delivering 1t of fuel to Earth orbit)
 For the goals with a * those deliveries are expected in their orbits. You can perform deliveries via the Market window and check what Resources are expected where. 
 Outside of Earth those markets should never update, fixed prices fixed amounts, once its all sold thats it.
-There is a provision for a bonus of 200k for exploring each solar object. It is paid when the rover is scrapped and the parts are handed to earths governemnt on that body via the market.
+There is a provision for a bonus of 500k for exploring each solar object. It is paid when the rover is scrapped and the parts are handed to earths governemnt on that body via the market.
 Thats all really, id encourage you to talk to youre chief scientist now looking at the avialability of technologies and then start planning our space future. \
 Good Luck, have fun :).
 
