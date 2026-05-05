@@ -16,8 +16,6 @@ spacecraft_chem_small:
     id_resource_steel: 2
   cargoCapacity: 2
   fuelCapacity: 20
-  thrust: 20000
-  exhaustV: 3.7
   mass: 1
   maxLifeSupport: 0
   availableDeltaV: 100
@@ -44,10 +42,7 @@ spacecraft_chem_mid2:
     id_resource_chips: 1
   cargoCapacity: 5
   fuelCapacity: 10
-  thrust: 40
-  exhaustV: 20
   mass: 2
-  maxLifeSupport: 180
   availableDeltaV: 100
   maximumAcceleration: 100
   maintenanceCostPerDay: 10
@@ -73,8 +68,6 @@ spacecraft_chem_large:
     id_resource_plastic: 10
   cargoCapacity: 100
   fuelCapacity: 1000
-  thrust: 4800000
-  exhaustV: 3.7
   mass: 50
   maxLifeSupport: 180
   availableDeltaV: 100
@@ -104,8 +97,6 @@ spacecraft_electric_small:
     id_resource_uran: 10
   cargoCapacity: 200
   fuelCapacity: 300
-  thrust: 160
-  exhaustV: 20
   mass: 100
   maxLifeSupport: 5110
   availableDeltaV: 100
@@ -167,8 +158,6 @@ spacecraft_nuke_small:
     id_resource_raremetal: 50
   cargoCapacity: 800
   fuelCapacity: 1000
-  thrust: 1000000
-  exhaustV: 10
   mass: 200
   maxLifeSupport: 4380
   availableDeltaV: 100
@@ -197,8 +186,6 @@ spacecraft_nuke_mid:
     id_resource_uran: 70
   cargoCapacity: 1500
   fuelCapacity: 1000
-  thrust: 850000
-  exhaustV: 30
   mass: 300
   maxLifeSupport: 4380
   availableDeltaV: 100
