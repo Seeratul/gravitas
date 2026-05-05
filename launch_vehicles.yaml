@@ -1,0 +1,140 @@
+# SPARROW (LaunchVehicleType)
+id_Rocket_RocketType1:
+  isLocked: false
+  special: None
+  canSendHuman: true
+  fuelType: id_resource_fuel
+  iconRef: pelican
+  forCycleMission: false
+  fakeForFacility: false
+  timeToBuildInDays: 50
+  constructionEquipmentCountIsRequired: true
+  buildCost: 0
+  buildResources:
+    id_resource_metal: 50
+  maxPayload: 10
+  maxFuelLoad: 10000
+  costLaunch: 200
+  exhaustV: 4.4
+  reusability: 0
+  maintenanceCostPerDay: 10
+  canBuyMaxPayload: null
+
+# FALCON (LaunchVehicleType)
+id_Rocket_RocketType3:
+  isLocked: true
+  special: None
+  canSendHuman: true
+  fuelType: id_resource_fuel
+  iconRef: falcon_medium
+  forCycleMission: false
+  fakeForFacility: false
+  timeToBuildInDays: 90
+  constructionEquipmentCountIsRequired: true
+  buildCost: 0
+  buildResources:
+    id_resource_metal: 80
+    id_resource_raremetal: 15
+  maxPayload: 25
+  maxFuelLoad: 10000
+  costLaunch: 500
+  exhaustV: 4.4
+  reusability: 0.5
+  maintenanceCostPerDay: 20
+  canBuyMaxPayload: null
+
+
+# EAGLE (LaunchVehicleType)
+id_Rocket_RocketType4:
+  isLocked: true
+  special: None
+  canSendHuman: true
+  fuelType: id_resource_fuel
+  iconRef: super_heavy
+  forCycleMission: false
+  fakeForFacility: false
+  timeToBuildInDays: 110
+  constructionEquipmentCountIsRequired: true
+  buildCost: 0
+  buildResources:
+    id_resource_metal: 250
+    id_resource_raremetal: 25
+  maxPayload: 100
+  maxFuelLoad: 40000
+  costLaunch: 2000
+  exhaustV: 4.4
+  reusability: 0.1
+  maintenanceCostPerDay: 20
+
+# CONDOR (LaunchVehicleType)
+lv_chemadvanced:
+  isLocked: true
+  special: None
+  canSendHuman: true
+  fuelType: id_resource_fuel
+  iconRef: chemadvanced
+  forCycleMission: false
+  fakeForFacility: false
+  timeToBuildInDays: 160
+  constructionEquipmentCountIsRequired: true
+  buildCost: 0
+  buildResources:
+    id_resource_metal: 500
+    id_resource_plastic: 500
+    id_resource_raremetal: 100
+  maxPayload: 200
+  maxFuelLoad: 80000
+  costLaunch: 2000
+  exhaustV: 10
+  reusability: 0.8
+  maintenanceCostPerDay: 100
+  canBuyMaxPayload: null
+
+  # PELICAN (LaunchVehicleType)
+lv_nuke_small:
+  isLocked: true
+  special: None
+  canSendHuman: true
+  fuelType: id_resource_hydrogen
+  iconRef: nuke_small
+  forCycleMission: false
+  fakeForFacility: false
+  timeToBuildInDays: 140
+  constructionEquipmentCountIsRequired: true
+  buildCost: 0
+  buildResources:
+    id_resource_metal: 400
+    id_resource_raremetal: 50
+    id_resource_uran: 40
+  maxPayload: 100
+  maxFuelLoad: 10000
+  costLaunch: 1000
+  exhaustV: 4.4
+  reusability: 0.65
+  maintenanceCostPerDay: 50
+  canBuyMaxPayload: null
+
+# Strato (LaunchVehicleType) 
+lv_chemstrato:
+  isLocked: false
+  special: None
+  name: StratoLV
+  description: A Starto which was modified to be a launch vehicle. 
+  canSendHuman: true
+  fuelType: id_resource_fuel
+  iconRef: starship
+  forCycleMission: false
+  fakeForFacility: false
+  timeToBuildInDays: 120
+  constructionEquipmentCountIsRequired: false
+  buildCost: 500
+  buildResources:
+    id_resource_steel: 40
+    id_resource_raremetal: 5
+    id_resource_plastic: 5
+  maxPayload: 100
+  maxFuelLoad: 1000
+  costLaunch: 2000
+  exhaustV: 3.7
+  reusability: 0.9
+  maintenanceCostPerDay: 10

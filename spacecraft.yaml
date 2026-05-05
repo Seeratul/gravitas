@@ -1,0 +1,207 @@
+# IRIS (SpacecraftType)
+spacecraft_chem_small:
+  engineType: chemical
+  orbitSC: false
+  isLocked: false
+  needLaunchVehicleToGoToMoon: true
+  buildOnlyLowOrbit: false
+  canByBuildByUser: true
+  reusability: 0
+  fuelType: id_resource_fuel
+  iconRef: iris
+  timeToBuildInDays: 30
+  constructionEquipmentCountIsRequired: true
+  buildCost: 100
+  buildResources:
+    id_resource_steel: 2
+  cargoCapacity: 2
+  fuelCapacity: 20
+  thrust: 20000
+  exhaustV: 3.7
+  mass: 1
+  maxLifeSupport: 0
+  availableDeltaV: 100
+  maximumAcceleration: 100
+  maintenanceCostPerDay: 10
+  maxPayload: null
+
+# SELENE (SpacecraftType)
+spacecraft_chem_mid2:
+  engineType: electric
+  orbitSC: false
+  isLocked: true
+  needLaunchVehicleToGoToMoon: true
+  buildOnlyLowOrbit: false
+  canByBuildByUser: true
+  reusability: 1
+  fuelType: id_resource_noblegas
+  iconRef: selene
+  timeToBuildInDays: 50
+  constructionEquipmentCountIsRequired: true
+  buildCost: 1000
+  buildResources:
+    id_resource_steel: 3
+    id_resource_chips: 1
+  cargoCapacity: 5
+  fuelCapacity: 10
+  thrust: 40
+  exhaustV: 20
+  mass: 2
+  maxLifeSupport: 180
+  availableDeltaV: 100
+  maximumAcceleration: 100
+  maintenanceCostPerDay: 10
+  maxPayload: null
+
+# STRATOS (SpacecraftType)
+spacecraft_chem_large:
+  engineType: chemical
+  orbitSC: false
+  isLocked: true
+  needLaunchVehicleToGoToMoon: false
+  buildOnlyLowOrbit: false
+  canByBuildByUser: true
+  reusability: 1
+  fuelType: id_resource_fuel
+  iconRef: starship
+  timeToBuildInDays: 120
+  constructionEquipmentCountIsRequired: true
+  buildCost: 2000
+  buildResources:
+    id_resource_steel: 80
+    id_resource_raremetal: 10
+    id_resource_plastic: 10
+  cargoCapacity: 100
+  fuelCapacity: 1000
+  thrust: 4800000
+  exhaustV: 3.7
+  mass: 50
+  maxLifeSupport: 180
+  availableDeltaV: 100
+  maximumAcceleration: 100
+  maintenanceCostPerDay: 10
+  maxPayload: null
+
+# HERMES (SpacecraftType)
+spacecraft_electric_small:
+  engineType: electric
+  orbitSC: true
+  solarSC: false
+  needLaunchVehicleToGoToMoon: true
+  buildOnlyLowOrbit: false
+  canByBuildByUser: false
+  reusability: 1
+  fuelType: id_resource_noblegas
+  iconRef: hermes
+  timeToBuildInDays: 300
+  constructionEquipmentCountIsRequired: true
+  buildCost: 10000
+  buildResources:
+    id_resource_steel: 100
+    id_resource_alloy: 40
+    id_resource_raremetal: 30
+    id_resource_chips: 20
+    id_resource_uran: 10
+  cargoCapacity: 200
+  fuelCapacity: 300
+  thrust: 160
+  exhaustV: 20
+  mass: 100
+  maxLifeSupport: 5110
+  availableDeltaV: 100
+  maximumAcceleration: 100
+  maintenanceCostPerDay: 50
+  maxPayload: null
+
+# CENTAUR (SpacecraftType)
+spacecraft_chem_mid3:
+  name: Centaur
+  cloneFrom: spacecraft_chem_mid
+  engineType: chemical
+  orbitSC: false
+  isLocked: false
+  description: A cheap, and reliable workhorse for when reusability is not important.
+  needLaunchVehicleToGoToMoon: true
+  buildOnlyLowOrbit: false
+  canByBuildByUser: false
+  constanceAcceleration: false
+  isInterstellarShip: false
+  asteroidPullingShip: false
+  fuelType: id_resource_fuel
+  iconRef: centaur
+  timeToBuildInDays: 30
+  constructionEquipmentCountIsRequired: true
+  buildCost: 50
+  buildResources:
+    id_resource_metal: 40
+    id_resource_glass: 10
+  cargoCapacity: 100
+  fuelCapacity: 2000
+  thrust: 300000
+  exhaustV: 3.7
+  mass: 25
+  maxLifeSupport: 0
+  availableDeltaV: 100
+  maximumAcceleration: 100
+  maintenanceCostPerDay: 5
+  maxPayload: null
+
+# PROMETHEUS (SpacecraftType)
+spacecraft_nuke_small:
+  engineType: nuclear
+  orbitSC: true
+  isLocked: true
+  needLaunchVehicleToGoToMoon: false
+  buildOnlyLowOrbit: false
+  canByBuildByUser: true
+  reusability: 1
+  fuelType: id_resource_hydrogen
+  iconRef: prometheus
+  timeToBuildInDays: 150
+  constructionEquipmentCountIsRequired: true
+  buildCost: 0
+  buildResources:
+    id_resource_steel: 200
+    id_resource_alloy: 100
+    id_resource_uran: 50
+    id_resource_raremetal: 50
+  cargoCapacity: 800
+  fuelCapacity: 1000
+  thrust: 1000000
+  exhaustV: 10
+  mass: 200
+  maxLifeSupport: 4380
+  availableDeltaV: 100
+  maximumAcceleration: 100
+  maintenanceCostPerDay: 10
+  maxPayload: null
+
+# HEPHAISTOS (SpacecraftType)
+spacecraft_nuke_mid:
+  engineType: nuclear
+  orbitSC: true
+  isLocked: true
+  needLaunchVehicleToGoToMoon: false
+  buildOnlyLowOrbit: false
+  canByBuildByUser: true
+  reusability: 1
+  fuelType: id_resource_hydrogen
+  iconRef: hephaistos
+  timeToBuildInDays: 150
+  constructionEquipmentCountIsRequired: true
+  buildCost: 0
+  buildResources:
+    id_resource_steel: 200
+    id_resource_alloy: 200
+    id_resource_chips: 30
+    id_resource_uran: 70
+  cargoCapacity: 1500
+  fuelCapacity: 1000
+  thrust: 850000
+  exhaustV: 30
+  mass: 300
+  maxLifeSupport: 4380
+  availableDeltaV: 100
+  maximumAcceleration: 100
+  maintenanceCostPerDay: 10
+  maxPayload: null
