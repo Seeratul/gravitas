@@ -115,6 +115,7 @@ spacecraft_chem_mid3:
   needLaunchVehicleToGoToMoon: true
   buildOnlyLowOrbit: false
   canByBuildByUser: false
+  reusability: 0
   constanceAcceleration: false
   isInterstellarShip: false
   asteroidPullingShip: false

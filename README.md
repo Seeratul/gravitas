@@ -1,4 +1,4 @@
-# gravitas v0.2
+# gravitas v0.2.1
 
 Gravitas is a Solar Expanse overhaul mod designed to make the game (much) harder and shift focus towards the early game.
 Its current Timeline is 2020-2120.
@@ -22,9 +22,9 @@ Its current Timeline is 2020-2120.
 It is important that your mod folder contains a bunch of dlls afterwards and not for example a fodler labled gravitas with dlls inside.
 4. Launch Solar Expanse (Melon loader should open a weird terminal with logging data, no weird terminal, no mods)
 5. Start a new game with an agency of your choiche, it is recomended to not play with competitors (they wont trade with you either way)
-5. Start a new game with an agency of your choiche
-6. Wait a \~15 sec after the game has loaded
-7. Save and reload the game (no game restart required).
+6. Start a new game with an agency of your choiche
+7. Wait a \~15 sec after the game has loaded
+8. Save and reload the game (no game restart required).
 
 ## How to play
 
@@ -47,7 +47,7 @@ Good Luck, have fun :).
 
 ## Known exploits:
 
-* Launching a stratos as payload and adding any amount of fuel to it breaks the launch cost calculation letting you "cheat" fuel into orbit.  
+* Launching a spaceship as payload and adding any amount of fuel to it breaks the launch cost calculation letting you "cheat" fuel into orbit.  
 Recommended player behaviour: always launch your stratos upper stages empty.
 * Base game startos as launcher lets you launch for no fuel cost.  
 Recommended player behaviour: Dont use startos as an LV it will only bring pain. But if you have to make sure to actually pay for the orbital insertions.
