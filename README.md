@@ -21,8 +21,8 @@ Its current Timeline is 2020-2120.
 3. Place the content of the gravitas folder in the mod folder in your Solar Expanse folder (melon loader should have made one for you).
 It is important that your mod folder contains a bunch of dlls afterwards and not for example a fodler labled gravitas with dlls inside.
 4. Launch Solar Expanse (Melon loader should open a weird terminal with logging data, no weird terminal, no mods)
-5. Start a new game with an agency of your Choiche, it is recomended to not play with competitors (they wont trade with you either way)
-5. Start a new game with an agency of your Choiche and NO COMPETITORS
+5. Start a new game with an agency of your choiche, it is recomended to not play with competitors (they wont trade with you either way)
+5. Start a new game with an agency of your choiche
 6. Wait a \~15 sec after the game has loaded
 7. Save and reload the game (no game restart required).
 
@@ -38,6 +38,7 @@ Earths governments have tasked you peppering humanity across our solar system th
 2100: Saturn\*  
 2120: PLuto  
 Your funding for this will be rather task based. A budget of \~220 Million in addition to your starting budget of 10 Million has been allocated for this project to be payed out in tranches for the delivery of materials at the target bodies. (The first 20 Million will be paid for delivering 1t of fuel to Earth orbit)
+Building commerccial labs for an additional income of 200 per day is also recommended though they do require a rather large amount of resources.
 For the goals with a \* those deliveries are expected in their orbits. You can perform deliveries via the Market window and check what Resources are expected where.
 Outside of Earth those markets should never update, fixed prices fixed amounts, once its all sold thats it.
 There is a provision for a bonus of 500k for exploring each solar object. It is paid when the rover is scrapped and the parts are handed to earths governemnt on that body via the market.
